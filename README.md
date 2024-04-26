@@ -19,9 +19,9 @@ Airbnb Backend is a Ruby on Rails application designed to manage the backend ope
 
 ### Prerequisites
 
-- Ruby 2.7.0 or higher
-- Rails 6.0 or higher
-- PostgreSQL 9.5 or higher
+- Ruby  3.2.2 
+- Rails 7.1.3.2  
+- PostgreSQL 16.2
 
 ### Installation
 1. Navigate to the project directory: `cd airbnb-backend`
